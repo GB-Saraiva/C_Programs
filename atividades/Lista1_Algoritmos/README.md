@@ -43,10 +43,10 @@
     MA = (Nota1 + Nota2 x 2 + Nota3 x 3 + ME)/7  
 A atribuição de conceitos obedece a tabela abaixo:  
     >Conceito / Média de Aproveitamento:  
-    >A: 9,0;  
-    >B: 7,5 e < 9,0;  
-    >C: 6,0 e < 7,5;  
-    >D: 4,0 e < 6,0;  
-    >E: < 4,0;
+    >A = 9,0;  
+    >B = 7,5 e < 9,0;  
+    >C = 6,0 e < 7,5;  
+    >D = 4,0 e < 6,0;  
+    >E = < 4,0;
     
     O algoritmo deve escrever o número do aluno, suas notas, a média dos exercícios, a média de aproveitamento, o conceito correspondente e a mensagem: APROVADO se o conceito for A, B ou C e REPROVADO se o conceito for D ou E.
