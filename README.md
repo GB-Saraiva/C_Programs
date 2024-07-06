@@ -1,5 +1,5 @@
 # C_Programs
-Here you can find and explore my most relevant programs and projects made all by **C** language.
+Here you can find and explore my most relevant programs and projects written in **C** language.
 
 ## atividades
 In the **"atividades"** folder, you'll find lists containing numerous exercises to practice, starting with the basics and increasing in dificulty with each one.
